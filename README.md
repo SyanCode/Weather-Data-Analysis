@@ -21,3 +21,6 @@ Ce projet vise à analyser et traiter des données météorologiques pour obteni
 
 ## Utilisation
 Exécuter le fichier `main.py` pour obtenir les résultats des requêtes statistiques et comparatives.
+
+## Données utilisées
+Données météorologiques fournies par [MétéoFrance](https://donneespubliques.meteofrance.fr/?fond=produit&id_produit=90&id_rubrique=32) : février 2009 et février 2019.
